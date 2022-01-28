@@ -58,7 +58,7 @@
     cross-spawn "^7.0.0"
     diff "^4.0.1"
     finalhandler "^1.1.2"
-    fork-ts-checker-webpack-plugin "~1.0.4"
+    fork-ts-checker-webpack-plugin "~5.5.5"
     istanbul-instrumenter-loader "^3.0.1"
     jquery "^3.4.1"
     mkdirp "^0.5.1"
