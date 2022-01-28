@@ -15,7 +15,7 @@
   integrity sha512-PX4y5xQUvy0fnEVHrYOarRPXVWafSjTW9T0Hab8gVIawpl2Sj0ORyrygANq+KjcNlSSTw0YCLSNA8OyZ1I4yEg==
   dependencies:
     chalk "^2.0.0"
-    esutils "^2.0.2"
+    esutils "^7.9.4"
     js-tokens "^4.0.0"
 
 "@ephox/agar@^4.15.3", "@ephox/agar@latest":
