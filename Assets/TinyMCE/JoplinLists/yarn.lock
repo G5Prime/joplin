@@ -23,7 +23,7 @@
   resolved "https://registry.yarnpkg.com/@ephox/agar/-/agar-4.15.3.tgz#cde5672b384b9547e085cada667c8e39218fc4ea"
   integrity sha512-sQvppCrUvmCLSP6ycx3iu5XskcDI87MXHAaHQxgrF+G/XrSQtyJKkuFECDysokrX9TcPDjQ9dJgoR3ZN4rEiOw==
   dependencies:
-    "@ephox/bedrock-client" "^9.3.2"
+    "@ephox/bedrock-client" "^9.3.1"
     "@ephox/dom-globals" "^1.1.2"
     "@ephox/jax" "^4.1.31"
     "@ephox/sand" "^3.1.6"
